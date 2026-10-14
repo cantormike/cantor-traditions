@@ -1,0 +1,1276 @@
+{
+  "variant": "Binder",
+  "corpus": "torah",
+  "tropes": {
+    "siluk": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "16"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        },
+        {
+          "pitch": "C3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "mercha-siluk": {
+      "pre": [
+        {
+          "pitch": "E3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "mercha-siluk-sof-aliyah": {
+      "pre": [
+        {
+          "pitch": "A3",
+          "dur": "16"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A3",
+          "dur": "16"
+        }
+      ]
+    },
+    "siluk-sof-aliyah": {
+      "pre": [
+        {
+          "pitch": "A3",
+          "dur": "16"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        },
+        {
+          "pitch": "D3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "etnachta": {
+      "pre": [
+        {
+          "pitch": "C3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "q"
+        }
+      ]
+    },
+    "munach-etnachta": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        },
+        {
+          "pitch": "D3",
+          "dur": "8"
+        }
+      ]
+    },
+    "mercha-etnachta": {
+      "pre": [
+        {
+          "pitch": "E3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ]
+    },
+    "tipcha": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A3",
+          "dur": "8d"
+        },
+        {
+          "pitch": "C4",
+          "dur": "16"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "mercha-tipcha": {
+      "pre": [
+        {
+          "pitch": "E3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "tipcha-sof-aliyah": {
+      "pre": [
+        {
+          "pitch": "D3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "C4",
+          "dur": "8"
+        },
+        {
+          "pitch": "A3",
+          "dur": "q"
+        }
+      ]
+    },
+    "mercha-tipcha-sof-aliyah": {
+      "pre": [
+        {
+          "pitch": "D3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "mercha-tipcha-end-of-book": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "tipcha-end-of-book": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "16"
+        },
+        {
+          "pitch": "E3",
+          "dur": "16"
+        },
+        {
+          "pitch": "C3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "mercha-siluk-end-of-book": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A#3",
+          "dur": "8"
+        },
+        {
+          "pitch": "A3",
+          "dur": "8"
+        }
+      ]
+    },
+    "siluk-end-of-book": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "C4",
+          "dur": "8"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "zakef-katon": {
+      "pre": [
+        {
+          "pitch": "A3",
+          "dur": "16"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "C4",
+          "dur": "8"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "munach-zakef-katon": {
+      "pre": [
+        {
+          "pitch": "A3",
+          "dur": "16"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "A3",
+          "dur": "8t"
+        }
+      ]
+    },
+    "tevir": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "16"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        },
+        {
+          "pitch": "E3",
+          "dur": "16"
+        },
+        {
+          "pitch": "F3",
+          "dur": "16"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ]
+    },
+    "mercha-tevir": {
+      "pre": [
+        {
+          "pitch": "A3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "C4",
+          "dur": "8"
+        },
+        {
+          "pitch": "G3",
+          "dur": "q"
+        }
+      ]
+    },
+    "munach-tevir": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ]
+    },
+    "revii": {
+      "pre": [
+        {
+          "pitch": "A3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "8d"
+        },
+        {
+          "pitch": "F3",
+          "dur": "16"
+        },
+        {
+          "pitch": "E3",
+          "dur": "16"
+        },
+        {
+          "pitch": "D3",
+          "dur": "q"
+        }
+      ]
+    },
+    "munach-revii": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "C4",
+          "dur": "8"
+        },
+        {
+          "pitch": "A3",
+          "dur": "q"
+        }
+      ]
+    },
+    "mercha-revii": {
+      "pre": [
+        {
+          "pitch": "A3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A3",
+          "dur": "8"
+        }
+      ]
+    },
+    "segol": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A3",
+          "dur": "8"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "munach-segol": {
+      "pre": [
+        {
+          "pitch": "C3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "zakef-gadol": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        },
+        {
+          "pitch": "A3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "C4",
+          "dur": "8d"
+        },
+        {
+          "pitch": "D4",
+          "dur": "16"
+        },
+        {
+          "pitch": "C4",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "8"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "munach-zakef-gadol": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ]
+    },
+    "pashta": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "16"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "C4",
+          "dur": "8"
+        }
+      ]
+    },
+    "munach-pashta": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ]
+    },
+    "mercha-pashta": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ]
+    },
+    "telisha-ketanah": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "E3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "F3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "G3",
+          "dur": "q"
+        },
+        {
+          "pitch": "F3",
+          "dur": "q"
+        }
+      ]
+    },
+    "munach-telisha-ketanah": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A3",
+          "dur": "8"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ]
+    },
+    "zarka": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "8d"
+        },
+        {
+          "pitch": "F3",
+          "dur": "16"
+        },
+        {
+          "pitch": "E3",
+          "dur": "16"
+        },
+        {
+          "pitch": "D3",
+          "dur": "16"
+        },
+        {
+          "pitch": "E3",
+          "dur": "8"
+        },
+        {
+          "pitch": "C3",
+          "dur": "8"
+        }
+      ]
+    },
+    "munach-zarka": {
+      "pre": [
+        {
+          "pitch": "A#3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A3",
+          "dur": "8"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ]
+    },
+    "mercha-zarka": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ]
+    },
+    "darga": {
+      "pre": [
+        {
+          "pitch": "A3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "C4",
+          "dur": "8d"
+        },
+        {
+          "pitch": "A#3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "munach-darga": {
+      "pre": [
+        {
+          "pitch": "C4",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "C4",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "C4",
+          "dur": "8"
+        }
+      ]
+    },
+    "telisha-gedolah": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "16"
+        },
+        {
+          "pitch": "G3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A#3",
+          "dur": "16"
+        },
+        {
+          "pitch": "C4",
+          "dur": "8t"
+        },
+        {
+          "pitch": "A3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "F3",
+          "dur": "q"
+        }
+      ]
+    },
+    "munach-telisha-gedolah": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A3",
+          "dur": "8"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ]
+    },
+    "geresh": {
+      "pre": [
+        {
+          "pitch": "C4",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "C4",
+          "dur": "8t"
+        },
+        {
+          "pitch": "A3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "D4",
+          "dur": "8t"
+        },
+        {
+          "pitch": "C4",
+          "dur": "q"
+        }
+      ]
+    },
+    "kadma": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A3",
+          "dur": "8"
+        }
+      ]
+    },
+    "azla": {
+      "pre": [
+        {
+          "pitch": "A3",
+          "dur": "16"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "D4",
+          "dur": "8"
+        },
+        {
+          "pitch": "C4",
+          "dur": "8d"
+        }
+      ]
+    },
+    "mapach": {
+      "pre": [
+        {
+          "pitch": "A3",
+          "dur": "16"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "C3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "F3",
+          "dur": "8t"
+        }
+      ]
+    },
+    "yetiv": {
+      "pre": [
+        {
+          "pitch": "D4",
+          "dur": "16"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "D4",
+          "dur": "8"
+        },
+        {
+          "pitch": "C4",
+          "dur": "8"
+        }
+      ]
+    },
+    "munach-mapach": {
+      "pre": [
+        {
+          "pitch": "C4",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "C4",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "C4",
+          "dur": "8"
+        }
+      ]
+    },
+    "munach-mapach-pashta": {
+      "pre": [
+        {
+          "pitch": "C4",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "C4",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "C4",
+          "dur": "8"
+        }
+      ]
+    },
+    "munach-mercha-pashta": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ]
+    },
+    "mercha-munach-legarmei": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ]
+    },
+    "munach-munach-legarmei": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ]
+    },
+    "munach-gershayim": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "16"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "16"
+        }
+      ]
+    },
+    "munach-legarmei": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "16"
+        },
+        {
+          "pitch": "G3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "F3",
+          "dur": "16"
+        },
+        {
+          "pitch": "G3",
+          "dur": "q"
+        }
+      ]
+    },
+    "gershayim": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A3",
+          "dur": "8d"
+        },
+        {
+          "pitch": "G3",
+          "dur": "16"
+        },
+        {
+          "pitch": "F3",
+          "dur": "16"
+        },
+        {
+          "pitch": "G3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "8"
+        }
+      ]
+    },
+    "pazer": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "16"
+        },
+        {
+          "pitch": "G3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A#3",
+          "dur": "16"
+        },
+        {
+          "pitch": "C4",
+          "dur": "16"
+        },
+        {
+          "pitch": "D4",
+          "dur": "8t"
+        },
+        {
+          "pitch": "C4",
+          "dur": "8t"
+        },
+        {
+          "pitch": "A3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "G3",
+          "dur": "q"
+        }
+      ]
+    },
+    "munach-pazer": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A3",
+          "dur": "8"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8d"
+        }
+      ]
+    },
+    "shalshelet": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "C4",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "F3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "C4",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "F3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "C4",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "D4",
+          "dur": "8"
+        },
+        {
+          "pitch": "C4",
+          "dur": "8d"
+        }
+      ]
+    },
+    "karnei-farah": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "E3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "F3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8"
+        },
+        {
+          "pitch": "F3",
+          "dur": "8d"
+        },
+        {
+          "pitch": "G3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A#3",
+          "dur": "16"
+        },
+        {
+          "pitch": "C4",
+          "dur": "8t"
+        },
+        {
+          "pitch": "A3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "G3",
+          "dur": "8t"
+        },
+        {
+          "pitch": "F3",
+          "dur": "q"
+        }
+      ]
+    },
+    "yerach-ben-yomo": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "A3",
+          "dur": "8"
+        },
+        {
+          "pitch": "G3",
+          "dur": "q"
+        }
+      ]
+    },
+    "munach-yerach-ben-yomo": {
+      "pre": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "F3",
+          "dur": "8"
+        }
+      ]
+    },
+    "mercha-kefula": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A#3",
+          "dur": "16"
+        },
+        {
+          "pitch": "C4",
+          "dur": "16"
+        },
+        {
+          "pitch": "A#3",
+          "dur": "16"
+        },
+        {
+          "pitch": "A3",
+          "dur": "16"
+        },
+        {
+          "pitch": "G3",
+          "dur": "q"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,5 @@
+registry-entry.json
+.import-*/
+*.wav
+portal/
+.DS_Store
