@@ -4721,20 +4721,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.77",
-        "input_tp": "-8.74",
+        "input_i": "-20.87",
+        "input_tp": "-8.03",
         "input_lra": "0.00",
-        "input_thresh": "-31.17",
-        "output_i": "-27.01",
-        "output_tp": "-14.96",
+        "input_thresh": "-30.87",
+        "output_i": "-26.98",
+        "output_tp": "-14.16",
         "output_lra": "0.00",
-        "output_thresh": "-37.41",
+        "output_thresh": "-36.98",
         "normalization_type": "linear",
-        "target_offset": "0.01"
+        "target_offset": "-0.02"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "161032"
+        "bit_rate": "161159"
       }
     },
     {
@@ -4748,20 +4748,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.57",
-        "input_tp": "-10.64",
+        "input_i": "-21.26",
+        "input_tp": "-10.18",
         "input_lra": "0.00",
-        "input_thresh": "-31.00",
-        "output_i": "-26.99",
-        "output_tp": "-17.07",
+        "input_thresh": "-31.71",
+        "output_i": "-27.02",
+        "output_tp": "-15.91",
         "output_lra": "0.00",
-        "output_thresh": "-37.42",
+        "output_thresh": "-37.47",
         "normalization_type": "linear",
-        "target_offset": "-0.01"
+        "target_offset": "0.02"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "161520"
+        "bit_rate": "161046"
       }
     },
     {
@@ -4775,20 +4775,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.66",
-        "input_tp": "-9.75",
+        "input_i": "-20.77",
+        "input_tp": "-9.29",
         "input_lra": "0.00",
-        "input_thresh": "-30.94",
-        "output_i": "-27.00",
-        "output_tp": "-16.09",
+        "input_thresh": "-30.77",
+        "output_i": "-27.01",
+        "output_tp": "-15.52",
         "output_lra": "0.00",
-        "output_thresh": "-37.27",
+        "output_thresh": "-37.01",
         "normalization_type": "linear",
-        "target_offset": "-0.00"
+        "target_offset": "0.01"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "160704"
+        "bit_rate": "160400"
       }
     },
     {
@@ -4802,20 +4802,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.47",
-        "input_tp": "-9.74",
+        "input_i": "-21.11",
+        "input_tp": "-10.55",
         "input_lra": "0.00",
-        "input_thresh": "-30.81",
+        "input_thresh": "-31.93",
         "output_i": "-27.00",
-        "output_tp": "-16.27",
+        "output_tp": "-16.45",
         "output_lra": "0.00",
-        "output_thresh": "-37.35",
+        "output_thresh": "-37.82",
         "normalization_type": "linear",
         "target_offset": "0.00"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "161386"
+        "bit_rate": "160649"
       }
     },
     {
@@ -4829,20 +4829,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.78",
-        "input_tp": "-9.32",
+        "input_i": "-21.42",
+        "input_tp": "-8.82",
         "input_lra": "0.00",
-        "input_thresh": "-31.18",
-        "output_i": "-27.00",
-        "output_tp": "-15.53",
+        "input_thresh": "-32.03",
+        "output_i": "-27.01",
+        "output_tp": "-14.40",
         "output_lra": "0.00",
-        "output_thresh": "-37.40",
+        "output_thresh": "-37.32",
         "normalization_type": "linear",
-        "target_offset": "-0.00"
+        "target_offset": "0.01"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "161183"
+        "bit_rate": "160612"
       }
     },
     {
@@ -4856,20 +4856,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.61",
-        "input_tp": "-8.95",
+        "input_i": "-20.49",
+        "input_tp": "-5.91",
         "input_lra": "0.00",
-        "input_thresh": "-30.92",
+        "input_thresh": "-30.76",
         "output_i": "-27.00",
-        "output_tp": "-15.35",
+        "output_tp": "-12.42",
         "output_lra": "0.00",
-        "output_thresh": "-37.31",
+        "output_thresh": "-37.28",
         "normalization_type": "linear",
-        "target_offset": "-0.00"
+        "target_offset": "0.00"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "164104"
+        "bit_rate": "160872"
       }
     },
     {
@@ -4910,20 +4910,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.50",
-        "input_tp": "-8.61",
+        "input_i": "-21.38",
+        "input_tp": "-9.62",
         "input_lra": "0.00",
-        "input_thresh": "-30.99",
-        "output_i": "-27.00",
-        "output_tp": "-15.11",
+        "input_thresh": "-31.73",
+        "output_i": "-26.99",
+        "output_tp": "-15.24",
         "output_lra": "0.00",
-        "output_thresh": "-37.49",
+        "output_thresh": "-37.34",
         "normalization_type": "linear",
-        "target_offset": "0.00"
+        "target_offset": "-0.01"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "161110"
+        "bit_rate": "161213"
       }
     },
     {
@@ -4937,20 +4937,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.42",
-        "input_tp": "-10.12",
+        "input_i": "-20.96",
+        "input_tp": "-9.37",
         "input_lra": "0.00",
-        "input_thresh": "-30.74",
-        "output_i": "-27.00",
-        "output_tp": "-16.69",
+        "input_thresh": "-31.31",
+        "output_i": "-26.99",
+        "output_tp": "-15.41",
         "output_lra": "0.00",
-        "output_thresh": "-37.31",
+        "output_thresh": "-37.34",
         "normalization_type": "linear",
-        "target_offset": "0.00"
+        "target_offset": "-0.01"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "159856"
+        "bit_rate": "160569"
       }
     },
     {
@@ -4964,20 +4964,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-21.38",
-        "input_tp": "-9.48",
+        "input_i": "-21.22",
+        "input_tp": "-8.80",
         "input_lra": "0.00",
-        "input_thresh": "-31.38",
-        "output_i": "-27.01",
-        "output_tp": "-15.10",
+        "input_thresh": "-32.14",
+        "output_i": "-27.34",
+        "output_tp": "-14.57",
         "output_lra": "0.00",
-        "output_thresh": "-37.01",
+        "output_thresh": "-37.94",
         "normalization_type": "linear",
-        "target_offset": "0.01"
+        "target_offset": "0.34"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "160546"
+        "bit_rate": "160685"
       }
     },
     {
@@ -4991,20 +4991,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-21.11",
-        "input_tp": "-10.00",
+        "input_i": "-20.97",
+        "input_tp": "-7.34",
         "input_lra": "0.00",
-        "input_thresh": "-31.55",
-        "output_i": "-27.01",
-        "output_tp": "-15.90",
+        "input_thresh": "-31.39",
+        "output_i": "-27.00",
+        "output_tp": "-13.37",
         "output_lra": "0.00",
-        "output_thresh": "-37.45",
+        "output_thresh": "-37.00",
         "normalization_type": "linear",
-        "target_offset": "0.01"
+        "target_offset": "-0.00"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "161987"
+        "bit_rate": "161148"
       }
     },
     {
@@ -5018,20 +5018,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-21.01",
-        "input_tp": "-9.33",
+        "input_i": "-20.76",
+        "input_tp": "-8.65",
         "input_lra": "0.00",
-        "input_thresh": "-31.01",
-        "output_i": "-27.01",
-        "output_tp": "-15.32",
+        "input_thresh": "-30.76",
+        "output_i": "-27.03",
+        "output_tp": "-14.88",
         "output_lra": "0.00",
-        "output_thresh": "-37.01",
+        "output_thresh": "-37.03",
         "normalization_type": "linear",
-        "target_offset": "0.01"
+        "target_offset": "0.03"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "162732"
+        "bit_rate": "161590"
       }
     },
     {
@@ -5045,20 +5045,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.51",
-        "input_tp": "-8.58",
+        "input_i": "-20.93",
+        "input_tp": "-7.65",
         "input_lra": "0.00",
-        "input_thresh": "-30.83",
+        "input_thresh": "-31.21",
         "output_i": "-27.01",
-        "output_tp": "-15.08",
+        "output_tp": "-13.72",
         "output_lra": "0.00",
-        "output_thresh": "-37.33",
+        "output_thresh": "-37.28",
         "normalization_type": "linear",
         "target_offset": "0.01"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "162925"
+        "bit_rate": "160837"
       }
     },
     {
@@ -5072,20 +5072,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.42",
-        "input_tp": "-6.90",
+        "input_i": "-20.43",
+        "input_tp": "-6.74",
         "input_lra": "0.00",
-        "input_thresh": "-30.75",
-        "output_i": "-27.01",
-        "output_tp": "-13.48",
+        "input_thresh": "-30.43",
+        "output_i": "-26.99",
+        "output_tp": "-13.31",
         "output_lra": "0.00",
-        "output_thresh": "-37.33",
+        "output_thresh": "-36.99",
         "normalization_type": "linear",
-        "target_offset": "0.01"
+        "target_offset": "-0.01"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "161337"
+        "bit_rate": "160664"
       }
     },
     {
@@ -5099,20 +5099,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.83",
-        "input_tp": "-9.73",
+        "input_i": "-20.78",
+        "input_tp": "-6.29",
         "input_lra": "0.00",
-        "input_thresh": "-31.22",
-        "output_i": "-27.01",
-        "output_tp": "-15.90",
+        "input_thresh": "-31.16",
+        "output_i": "-27.00",
+        "output_tp": "-12.50",
         "output_lra": "0.00",
-        "output_thresh": "-37.41",
+        "output_thresh": "-37.38",
         "normalization_type": "linear",
-        "target_offset": "0.01"
+        "target_offset": "-0.00"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "161115"
+        "bit_rate": "161191"
       }
     },
     {
@@ -5126,20 +5126,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.27",
-        "input_tp": "-7.73",
+        "input_i": "-21.10",
+        "input_tp": "-7.65",
         "input_lra": "0.00",
-        "input_thresh": "-30.56",
+        "input_thresh": "-31.79",
         "output_i": "-27.00",
-        "output_tp": "-14.46",
+        "output_tp": "-13.55",
         "output_lra": "0.00",
-        "output_thresh": "-37.29",
+        "output_thresh": "-37.47",
         "normalization_type": "linear",
         "target_offset": "-0.00"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "160559"
+        "bit_rate": "160720"
       }
     },
     {
@@ -5153,20 +5153,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.62",
-        "input_tp": "-9.71",
+        "input_i": "-20.81",
+        "input_tp": "-7.06",
         "input_lra": "0.00",
-        "input_thresh": "-30.62",
-        "output_i": "-26.99",
-        "output_tp": "-16.09",
+        "input_thresh": "-31.09",
+        "output_i": "-27.01",
+        "output_tp": "-13.25",
         "output_lra": "0.00",
-        "output_thresh": "-36.99",
+        "output_thresh": "-37.29",
         "normalization_type": "linear",
-        "target_offset": "-0.01"
+        "target_offset": "0.01"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "161185"
+        "bit_rate": "160940"
       }
     },
     {
@@ -5180,20 +5180,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.85",
-        "input_tp": "-7.96",
+        "input_i": "-21.18",
+        "input_tp": "-7.74",
         "input_lra": "0.00",
-        "input_thresh": "-30.85",
-        "output_i": "-27.01",
-        "output_tp": "-14.11",
+        "input_thresh": "-31.44",
+        "output_i": "-27.00",
+        "output_tp": "-13.55",
         "output_lra": "0.00",
-        "output_thresh": "-37.01",
+        "output_thresh": "-37.25",
         "normalization_type": "linear",
-        "target_offset": "0.01"
+        "target_offset": "-0.00"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "160819"
+        "bit_rate": "160805"
       }
     },
     {
@@ -5774,20 +5774,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.88",
-        "input_tp": "-8.18",
+        "input_i": "-20.57",
+        "input_tp": "-7.56",
         "input_lra": "0.00",
-        "input_thresh": "-31.22",
-        "output_i": "-27.03",
-        "output_tp": "-14.30",
+        "input_thresh": "-30.99",
+        "output_i": "-27.00",
+        "output_tp": "-13.99",
         "output_lra": "0.00",
-        "output_thresh": "-37.38",
+        "output_thresh": "-37.42",
         "normalization_type": "linear",
-        "target_offset": "0.03"
+        "target_offset": "-0.00"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "160762"
+        "bit_rate": "160603"
       }
     },
     {
@@ -5801,20 +5801,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.66",
-        "input_tp": "-10.22",
+        "input_i": "-21.28",
+        "input_tp": "-7.11",
         "input_lra": "0.00",
-        "input_thresh": "-31.02",
-        "output_i": "-27.00",
-        "output_tp": "-16.56",
+        "input_thresh": "-31.74",
+        "output_i": "-27.01",
+        "output_tp": "-12.83",
         "output_lra": "0.00",
-        "output_thresh": "-37.36",
+        "output_thresh": "-37.47",
         "normalization_type": "linear",
-        "target_offset": "0.00"
+        "target_offset": "0.01"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "161290"
+        "bit_rate": "161417"
       }
     },
     {
@@ -5963,20 +5963,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.85",
-        "input_tp": "-8.95",
+        "input_i": "-21.34",
+        "input_tp": "-8.21",
         "input_lra": "0.00",
-        "input_thresh": "-30.85",
-        "output_i": "-26.99",
-        "output_tp": "-15.10",
+        "input_thresh": "-31.34",
+        "output_i": "-27.01",
+        "output_tp": "-13.88",
         "output_lra": "0.00",
-        "output_thresh": "-36.99",
+        "output_thresh": "-37.01",
         "normalization_type": "linear",
-        "target_offset": "-0.01"
+        "target_offset": "0.01"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "160562"
+        "bit_rate": "161005"
       }
     },
     {
@@ -16628,20 +16628,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.79",
-        "input_tp": "-9.99",
+        "input_i": "-21.11",
+        "input_tp": "-8.28",
         "input_lra": "0.00",
-        "input_thresh": "-31.00",
-        "output_i": "-26.99",
-        "output_tp": "-16.20",
+        "input_thresh": "-31.11",
+        "output_i": "-27.00",
+        "output_tp": "-14.17",
         "output_lra": "0.00",
-        "output_thresh": "-37.20",
+        "output_thresh": "-37.00",
         "normalization_type": "linear",
-        "target_offset": "-0.01"
+        "target_offset": "0.00"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "160746"
+        "bit_rate": "160525"
       }
     },
     {
@@ -16655,20 +16655,20 @@
         "sampleRate": "not forced (original FFmpeg behavior)"
       },
       "measured": {
-        "input_i": "-20.75",
-        "input_tp": "-8.83",
+        "input_i": "-21.04",
+        "input_tp": "-6.46",
         "input_lra": "0.00",
-        "input_thresh": "-30.94",
-        "output_i": "-27.01",
-        "output_tp": "-15.08",
+        "input_thresh": "-31.22",
+        "output_i": "-26.98",
+        "output_tp": "-12.42",
         "output_lra": "0.00",
-        "output_thresh": "-37.20",
+        "output_thresh": "-37.16",
         "normalization_type": "linear",
-        "target_offset": "0.01"
+        "target_offset": "-0.02"
       },
       "output": {
         "sample_rate": "96000",
-        "bit_rate": "160591"
+        "bit_rate": "160804"
       }
     },
     {

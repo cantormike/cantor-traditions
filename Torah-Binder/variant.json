@@ -2009,8 +2009,8 @@
       "syllables": 1,
       "stress": "milra",
       "ref": "Genesis 2:17",
-      "bytes": 30145,
-      "sha256": "0968c61dd176159d128ad5bc25fe656f18c2e71c06f11c65ab81275392ff84a7"
+      "bytes": 28935,
+      "sha256": "90398133c1ce72d4cced0afe5a3c67454b3f24baf6afcbea0dcdd125499be7a3"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-02.m4a",
@@ -2020,8 +2020,8 @@
       "syllables": 1,
       "stress": "milra",
       "ref": "Genesis 2:23",
-      "bytes": 28585,
-      "sha256": "3f3059b0672db8b437327a154e9afbcba54528bc1580a5937082d651e317f16b"
+      "bytes": 33827,
+      "sha256": "d926110d8f81dd3ce843acd04e408bcf619b981446a47abbc6ebbb76196e9ec8"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-03.m4a",
@@ -2031,8 +2031,8 @@
       "syllables": 3,
       "stress": "milra",
       "ref": "Genesis 2",
-      "bytes": 39089,
-      "sha256": "5b68d6e36355149ba2d83268d2704c8d34f7a28dd3756e0af693def5ac81a3b7"
+      "bytes": 49640,
+      "sha256": "d4920471a091bc064ef5bcb568c41cf6c24c3444cc69470e0b9ab74740aad83c"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-04.m4a",
@@ -2042,8 +2042,8 @@
       "syllables": 2,
       "stress": "milra",
       "ref": "Genesis 10:22",
-      "bytes": 32673,
-      "sha256": "d725dcc767ddcebdd471655216d5f84f1c4de4249d0b5e232f82ce7f08bc3e7f"
+      "bytes": 53385,
+      "sha256": "756a587ba6a5c91df5ad13df3f32c32ed41aa50f2d90df570fba12164f913cd2"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-05.m4a",
@@ -2053,8 +2053,8 @@
       "syllables": 2,
       "stress": "milra",
       "ref": "Genesis 3:3",
-      "bytes": 30172,
-      "sha256": "3686cbb6014d63fe0b6e28520dd2013335ab1afc99fc2aa4c58f5f2cbe4e279f"
+      "bytes": 53373,
+      "sha256": "84c0c42ac0c210ca28c1eb2feb64d16b4da900f0078ee177f41e6a4cea83907c"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-06.m4a",
@@ -2064,8 +2064,8 @@
       "syllables": 3,
       "stress": "milra",
       "ref": "Genesis 8:15",
-      "bytes": 36542,
-      "sha256": "859e0a0cf499b320aaa2f8377385170f1e0f34089ac9255f6c322dbd91a8c756"
+      "bytes": 47320,
+      "sha256": "5624ebdc660264471d02b48fb65ac117ea2c246dffbc8d7affa13a2f5ee1a564"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-07.m4a",
@@ -2082,8 +2082,8 @@
       "syllables": 1,
       "stress": "milra",
       "ref": "Genesis 6:9",
-      "bytes": 26466,
-      "sha256": "943eb0ddd9f1e6f87a7877cf2f894c35c0fd7a0b14fb58b96761d2478880691b"
+      "bytes": 38797,
+      "sha256": "cbeee0cb4e60f003bd35c79e25b6d24a196807464fff521a068883927b228b90"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-09.m4a",
@@ -2093,8 +2093,8 @@
       "syllables": 2,
       "stress": "milra",
       "ref": "Genesis 12:17",
-      "bytes": 35226,
-      "sha256": "e0d3c122389707175e0a313c612afcb41751cec311e6777ca3ac9a04ee8417f1"
+      "bytes": 42329,
+      "sha256": "9a778271b884df2c2fd796f37563bb29ee20d22211ff813befa737563b72cb44"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-11.m4a",
@@ -2104,8 +2104,8 @@
       "syllables": 2,
       "stress": "mileil",
       "ref": "Genesis 2:4",
-      "bytes": 28830,
-      "sha256": "b0ec1a0ef4defbc489bb15d1942fe2457d2c908775f322dcf18da3bfac1f2d6e"
+      "bytes": 57088,
+      "sha256": "20361084f5ae8471232261f712a73bb5bddef3ccd2d2973bd560bc488f64dafb"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-14.m4a",
@@ -2115,8 +2115,8 @@
       "syllables": 2,
       "stress": "mileil",
       "ref": "Exodus 29:11",
-      "bytes": 28251,
-      "sha256": "deae78755b61ac235be1b4320aa7badd2eeb5084ec530308c7b5e2e6c7bbb117"
+      "bytes": 32627,
+      "sha256": "8202106b113575133f77d4a9c693c24da39877a56c1b18811c9093d0a6ee24cf"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-18.m4a",
@@ -2126,8 +2126,8 @@
       "syllables": 3,
       "stress": "mileil",
       "ref": "Genesis 11:2",
-      "bytes": 35419,
-      "sha256": "9d82661682b4af09be814e05ee096047465cde89e53aa5eb31b9582452bf4a61"
+      "bytes": 45056,
+      "sha256": "6c0fca317ee5b2d9ee2bea70c74242fd635728ddb6db2c01573e8d29592e6bca"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-21.m4a",
@@ -2137,8 +2137,8 @@
       "syllables": 3,
       "stress": "mileil",
       "ref": "Genesis 21:21",
-      "bytes": 35044,
-      "sha256": "819e029f8cd474ea07fe90756d86d19c79d2593ca71a509f977b2b837c17ddc6"
+      "bytes": 42397,
+      "sha256": "65e42ed87489276dc1f34a7a637f662043daee0955e7cc9e5266058f9254d928"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-24.m4a",
@@ -2148,8 +2148,8 @@
       "syllables": 3,
       "stress": "mileil",
       "ref": "Genesis 29:22",
-      "bytes": 34305,
-      "sha256": "1b4f514e8e45533268f3e93a3634e19776fb4af480ea604191ce883b6bfa4fa6"
+      "bytes": 37441,
+      "sha256": "6933ebed3495262889559b1267c4c00a0a26497cb25d1aff8dc479319cd6843c"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-26.m4a",
@@ -2159,8 +2159,8 @@
       "syllables": 2,
       "stress": "mileil",
       "ref": "Exodus 26:33",
-      "bytes": 29749,
-      "sha256": "2d41a1f7c2a6e441776ecc809148e3727e535f7b142505f6030a9f30a443b517"
+      "bytes": 37559,
+      "sha256": "7719d63abb2fbfa89fc84ebb4416ce8b14e8fc3c019782468d28a0b8f98e10a5"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-31.m4a",
@@ -2170,8 +2170,8 @@
       "syllables": 4,
       "stress": "mileil",
       "ref": "Genesis 2:1",
-      "bytes": 37827,
-      "sha256": "4883836417ef0bca2db2fb5af745dd80075ff09907325999736ea1df235b6b4f"
+      "bytes": 57100,
+      "sha256": "9ee7429697b155c9e61a564b0e73c5e20c2d5d13a8e4b0f69420a74c694932c3"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-32.m4a",
@@ -2181,8 +2181,8 @@
       "syllables": 4,
       "stress": "mileil",
       "ref": "Genesis 32:12",
-      "bytes": 35096,
-      "sha256": "b5f90da2c9d70a120c0ab685d107bdef622a11ea3264471bffaf451faa0223d9"
+      "bytes": 41192,
+      "sha256": "8f6d8696522f655a26060504206262d817c325f76bcb54ac857dd950b74f7973"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-33.m4a",
@@ -2192,8 +2192,8 @@
       "syllables": 4,
       "stress": "mileil",
       "ref": "Genesis 45:6",
-      "bytes": 38706,
-      "sha256": "3d197d66c30b86910152c0725d6b30d73a7d608855f5536ee0c8c5c160bc9624"
+      "bytes": 46075,
+      "sha256": "4beb6335730fd0b568f6f6291c2005df446d623eb9ac03b381cb585b3a79cbf5"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_TEVIR_WORDS normalized/TOR_MERCHA_BEFORE_TEVIR_WORDS-01.m4a",
@@ -2426,8 +2426,8 @@
       "syllables": 1,
       "stress": "milra",
       "ref": "Genesis 2:17",
-      "bytes": 32962,
-      "sha256": "0bce640ffa4b7c1f3d73c7913fae4f8824a8f6fcfa6724bc032c600bc1a72135"
+      "bytes": 43554,
+      "sha256": "9af7c49978225f3cc838b0dcc143b4dfc077e6a7e296d10a874c019b59274bcb"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_TIPCHA_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_TIPCHA_SOF_ALIYAH_WORDS-02.m4a",
@@ -2437,8 +2437,8 @@
       "syllables": 1,
       "stress": "milra",
       "ref": "Genesis 2:23",
-      "bytes": 31832,
-      "sha256": "417429a6a10032c21c3a665022ba96407179fee2c3cf33a8aeb9d4e89f21ed34"
+      "bytes": 32679,
+      "sha256": "11774d44c2b61d0ae734347b28dcab5fa218f248d0b410c6eaa7a3eb2fde1d81"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_TIPCHA_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_TIPCHA_SOF_ALIYAH_WORDS-03.m4a",
@@ -2503,8 +2503,8 @@
       "syllables": 1,
       "stress": "milra",
       "ref": "Genesis 6:9",
-      "bytes": 25152,
-      "sha256": "79b35a7ea256e8267cfe93b8c5e58e86d64e4204cd9983b3564c211fc225789a"
+      "bytes": 27677,
+      "sha256": "3069f3f3e3e176c9b22ca5987b03af822af6c262630cc9b8e033c6403fc7f151"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_TIPCHA_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_TIPCHA_SOF_ALIYAH_WORDS-11.m4a",
@@ -7193,8 +7193,8 @@
       "syllables": 1,
       "stress": "milra",
       "ref": "Genesis 4:7",
-      "bytes": 51379,
-      "sha256": "d842c390dca6a1f9f4144b4dbefba27dc33ccee8e17effc417d230cded4faee0"
+      "bytes": 58261,
+      "sha256": "9c59795cffa955e545f4b905c81ea3480a0e07e8250cf12c999848a6f1d4e728"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_SILUK_SOF_ALIYAH_WORDS normalized/TOR_SILUK_SOF_ALIYAH_WORDS-81.m4a",
@@ -7204,8 +7204,8 @@
       "syllables": 1,
       "stress": "milra",
       "ref": "Genesis 9:7",
-      "bytes": 52150,
-      "sha256": "31c9372708f2ff52334007be085a9f865d47c538f3034859f1d442b65573edb4"
+      "bytes": 60815,
+      "sha256": "0097b30bf04ed68fed380559a93412b4562fdbb4d98efeadb0542b6b92ce772f"
     },
     {
       "appPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_SILUK_SOF_ALIYAH_WORDS normalized/TOR_SILUK_SOF_ALIYAH_WORDS-90.m4a",
@@ -13596,5 +13596,36 @@
       "sha256": "cb3283bd1d4d52f6ec724aef87ce1435181b9ed1b2ed8d3362820d7c07a17576"
     }
   ],
-  "missing": []
+  "missing": [],
+  "updatedAt": "2026-10-15T20:14:19.860Z",
+  "recordingUpdates": [
+    {
+      "source": "Torah-Binder-changes-2026-10-15_2014.zip",
+      "exportedAt": "2026-10-15T20:14:19.860Z",
+      "recordings": [
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-01.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-02.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-03.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-04.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-05.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-06.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-08.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-09.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-11.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-14.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-18.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-21.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-24.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-26.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-31.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-32.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_SILUK_SOF_ALIYAH_WORDS-33.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_TIPCHA_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_TIPCHA_SOF_ALIYAH_WORDS-01.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_TIPCHA_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_TIPCHA_SOF_ALIYAH_WORDS-02.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_MERCHA_BEFORE_TIPCHA_SOF_ALIYAH_WORDS normalized/TOR_MERCHA_BEFORE_TIPCHA_SOF_ALIYAH_WORDS-08.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_SILUK_SOF_ALIYAH_WORDS normalized/TOR_SILUK_SOF_ALIYAH_WORDS-79.m4a",
+        "Assets/Audio/raw-voice-recordings/New Recordings/TOR_SILUK_SOF_ALIYAH_WORDS normalized/TOR_SILUK_SOF_ALIYAH_WORDS-81.m4a"
+      ]
+    }
+  ]
 }
