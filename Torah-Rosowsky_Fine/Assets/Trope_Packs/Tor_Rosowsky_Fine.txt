@@ -158,8 +158,7 @@
           "pitch": "G3",
           "dur": "8"
         }
-      ],
-      "audioPath": "Assets/Audio/Tradition Extras/TOR_TIPCHA_SILUK.m4a"
+      ]
     },
     "tipcha-sof-aliyah": {
       "pre": [
@@ -898,8 +897,7 @@
           "pitch": "F3",
           "dur": "8"
         }
-      ],
-      "audioPath": "Assets/Audio/Tradition Extras/TOR_MUNACH_MERCHA_PASHTA.m4a"
+      ]
     },
     "mercha-munach-legarmei": {
       "pre": [
