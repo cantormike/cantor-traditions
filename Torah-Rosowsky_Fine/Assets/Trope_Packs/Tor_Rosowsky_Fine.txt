@@ -106,7 +106,7 @@
       "pre": [
         {
           "pitch": "G3",
-          "dur": "8"
+          "dur": "16"
         }
       ],
       "stressed": [
@@ -158,7 +158,8 @@
           "pitch": "G3",
           "dur": "8"
         }
-      ]
+      ],
+      "audioPath": "Assets/Audio/raw-voice-recordings/New Recordings/TOR_TROPE_SOUND normalized/TOR_TROPE_SOUND-07.m4a"
     },
     "tipcha-sof-aliyah": {
       "pre": [
@@ -897,7 +898,8 @@
           "pitch": "F3",
           "dur": "8"
         }
-      ]
+      ],
+      "audioPath": "Assets/Audio/Tradition Extras/TOR_MUNACH_MERCHA_PASHTA.m4a"
     },
     "mercha-munach-legarmei": {
       "pre": [
@@ -1061,7 +1063,7 @@
         },
         {
           "pitch": "G3",
-          "dur": "8d"
+          "dur": "8"
         }
       ]
     },
@@ -1256,6 +1258,34 @@
         {
           "pitch": "G3",
           "dur": "q"
+        }
+      ]
+    },
+    "mercha-before-siluk-end-of-book": {
+      "pre": [
+        {
+          "pitch": "C3",
+          "dur": "16"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "C4",
+          "dur": "8"
+        }
+      ]
+    },
+    "mercha-before-tipcha-end-of-book": {
+      "pre": [
+        {
+          "pitch": "G3",
+          "dur": "8"
+        }
+      ],
+      "stressed": [
+        {
+          "pitch": "G3",
+          "dur": "8d"
         }
       ]
     }
